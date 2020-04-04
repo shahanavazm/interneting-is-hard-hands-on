@@ -1,2 +1,2 @@
-# interneting-is-hard-hands-on
+# Interneting Is Hard - Hands on
 Hands on examples which I completed when stuyding the HTML5 and CSS3 book [Interneting is Hard](https://www.internetingishard.com/).
